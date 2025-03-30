@@ -1,1 +1,1 @@
-# modina-eu.github.io
+# modina.github.io
