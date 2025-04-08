@@ -1,4 +1,4 @@
-McDonalds-UX
+Hydra Code Generator Kit
 ========
 
-by naoto
+
